@@ -16,10 +16,10 @@ In this project you can find:
 - class diagram
 - package diagram
 - activity diagrams:
-    login activity diagram
-    movie selection activity diagram
-    payment activity diagram
-    refund activity diagram
+    - login activity diagram
+    - movie selection activity diagram
+    - payment activity diagram
+    - refund activity diagram
 - communication diagrams:
     login communication diagram
     movie selection communication diagram
