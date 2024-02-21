@@ -21,20 +21,20 @@ In this project you can find:
     - payment activity diagram
     - refund activity diagram
 - communication diagrams:
-    login communication diagram
-    movie selection communication diagram
-    payment communication diagram
-    refund communication diagram
-    registration communication diagram
+    - login communication diagram
+    - movie selection communication diagram
+    - payment communication diagram
+    - refund communication diagram
+    - registration communication diagram
 - sequence diagrams:
-    login sequence diagram
-    movie selection sequence diagram
-    payment sequence diagram
-    refund sequence diagram
-    registration sequence diagram
+    - login sequence diagram
+    - movie selection sequence diagram
+    - payment sequence diagram
+    - refund sequence diagram
+    - registration sequence diagram
 - state machine diagrams:
-    booking process state machine diagram
-    movie state machine diagram
-    payment - refund state machine diagram
+    - booking process state machine diagram
+    - movie state machine diagram
+    - payment - refund state machine diagram
     
 Each diagram is done in detail and all together it represents the whole process of buying a movie ticket.
